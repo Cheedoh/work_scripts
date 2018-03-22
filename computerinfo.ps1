@@ -1,1 +1,2 @@
 ﻿Get-ComputerInfo
+test change

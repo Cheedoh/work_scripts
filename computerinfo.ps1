@@ -1,2 +1,2 @@
 ﻿Get-ComputerInfo
-test change
+test change v2
